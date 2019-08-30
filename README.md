@@ -1,8 +1,10 @@
 # SpaceX Launch Stats
 
-> React, GraphQL, Apollo app that uses the [SpaceX API](https://github.com/r-spacex/SpaceX-API) to display launches
+> React, GraphQL, Apollo app that uses the
+> [SpaceX API](https://github.com/r-spacex/SpaceX-API) to display launches
 
-Props to [bradtraversy](https://github.com/bradtraversy/spacex_launch_stats) and his graphql tutorial
+Props to [bradtraversy](https://github.com/bradtraversy/spacex_launch_stats) and
+his graphql tutorial
 
 ## Quick Start
 
