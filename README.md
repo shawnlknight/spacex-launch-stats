@@ -25,6 +25,11 @@ npm run client
 # Graphiql - http://localhost:5000/graphql
 ```
 
+### Deployed
+
+View deployed at app
+[https://secret-brook-34015.herokuapp.com](https://secret-brook-34015.herokuapp.com)
+
 ### Version
 
 1.0.0
