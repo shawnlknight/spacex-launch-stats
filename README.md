@@ -27,7 +27,7 @@ npm run client
 
 ### Deployed
 
-View deployed at app
+View deployed app
 [https://secret-brook-34015.herokuapp.com](https://secret-brook-34015.herokuapp.com)
 
 ### Version
