@@ -2,6 +2,7 @@ import React from 'react'
 import { gql } from 'apollo-boost'
 import { useQuery } from '@apollo/react-hooks'
 import LaunchItem from './LaunchItem'
+import MissionKey from './MissionKey'
 import uuidv1 from 'uuid/v1'
 
 function Launches() {
@@ -38,6 +39,7 @@ function Launches() {
   return (
     <React.Fragment>
       <h1 className="display-4 my-3">Launches</h1>
+      <MissionKey />
       {displayLaunchData()}
     </React.Fragment>
   )
